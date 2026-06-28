@@ -63,8 +63,5 @@ Fields used:
 * Monthly fire intensity graph
 * Spatial hotspot heatmap
 
-## Project Structure
 
-analysis notebook
-charts and heatmap screenshots
 
